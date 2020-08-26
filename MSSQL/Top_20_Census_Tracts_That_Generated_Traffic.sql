@@ -2,11 +2,17 @@
 Top 20 Census Tracts That Generated Traffic To The Santa Rosa Plaza
 
 Packages Required:
+Airsage 2017
 
 Universal Identifiers:
 propertyId
 
 Primary Columns Used:
+asOfDate
+censusTractHome
+countyFIPS
+propertyId
+timeOfDay
 
 Database_Type:
 MSSQL
