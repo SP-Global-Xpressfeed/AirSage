@@ -1,5 +1,5 @@
 /***********************************************************************************************
-Daily Foot Traffic In April 2017 
+Daily Foot Traffic In April 2017
 
 Packages Required:
 Airsage 2017
