@@ -2,11 +2,14 @@
 Number Of Visitors To Park Meadows Mall 
 
 Packages Required:
+Airsage 2017
 
 Universal Identifiers:
 propertyId
 
 Primary Columns Used:
+asOfDate
+propertyId
 
 Database_Type:
 MSSQL
