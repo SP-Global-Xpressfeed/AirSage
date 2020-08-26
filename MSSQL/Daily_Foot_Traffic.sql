@@ -2,12 +2,16 @@
 Daily Foot Traffic In April 2017 
 
 Packages Required:
+Airsage 2017
 
 Universal Identifiers:
 propertyId
 institutionId
 
 Primary Columns Used:
+asOfDate
+institutionId
+propertyId
 
 Database_Type:
 MSSQL
